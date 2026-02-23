@@ -7,3 +7,6 @@ pandas
 numpy
 # Anomaly Detection
 For the anomaly detection we use different readings to detect the most unusual reading that we get from the data available
+# Link for the data
+https://drive.google.com/drive/folders/1gtCiWZi-yfijuP1q1MfchS7pls2JOs3G?usp=sharing
+
